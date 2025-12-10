@@ -1,0 +1,24 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.env
+.venv
+venv/
+env/
+
+# IDE / editor
+.idea/
+.vscode/
+
+# MacOS metadata
+.DS_Store
+
+# Streamlit
+.streamlit/*
+!.streamlit/config.toml
+
+# Logs
+*.log
